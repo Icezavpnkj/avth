@@ -2,7 +2,7 @@
 "name": "รวมคลิปโป๊",
 "author": "By:Iceza",
 "image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif?1572298552",
-"url": "https://freenote.biz/raw/XrmkNPDyuc/",
+"url": "",
 "groups": [
 
 
